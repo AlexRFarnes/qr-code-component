@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I feel like I've finally grasped the article element's semantics and understood when to use it. Regarding CSS, putting into practice the use of Grid to center the card and placing the footer at the bottom. Additionaly, the process of structuring the CSS file was an interesting thought process.
+I feel like I've finally grasped the article element's semantics and understood when to use it. Regarding CSS, putting into practice the use of Grid to center the card and placing the footer at the bottom. Additionally, the process of structuring the CSS file was an interesting thought process.
 
 ```css
 body {
@@ -50,7 +50,7 @@ body {
 
 ### Continued development
 
-Since this was a simple project, structuring the CSS was not too complicated, so I want to keep practicing how to structe CSS files for more complex projects, including layers, and, also dive into layouts with Flexbox, Grid, media queries and container queries.
+Since this was a simple project, structuring the CSS was not too complicated, so I want to keep practicing how to structure CSS files for more complex projects, including layers, and, also dive into layouts with Flexbox, Grid, media queries and container queries.
 
 ## Author
 
